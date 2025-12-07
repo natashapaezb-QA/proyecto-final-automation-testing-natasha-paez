@@ -1,0 +1,7 @@
+pytest
+selenium
+requests
+pytest-html
+pytest-xdist
+webdriver-manager
+pandas          # opcional para leer CSV/Excel
